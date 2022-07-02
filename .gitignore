@@ -30,6 +30,6 @@ yarn-error.log*
 
 # vercel
 .vercel
-
+.eslintrc.json
 # swc file
 /.swc/
